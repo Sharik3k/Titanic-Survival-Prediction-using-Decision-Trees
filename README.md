@@ -161,7 +161,7 @@ If I upload the images to the repository, I can also show them directly in this 
 
 Example:
 
-```md
+
 ![Survival by Sex](images/survival_by_sex.png)
 
 ![Feature Importance](images/feature_importance.png)
