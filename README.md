@@ -163,9 +163,12 @@ Example:
 
 ```md
 ![Survival by Sex](images/survival_by_sex.png)
+
 ![Feature Importance](images/feature_importance.png)
+
 ![Confusion Matrix](images/confusion_matrix.png)
-```
+
+
 
 ## Main conclusions
 
