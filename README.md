@@ -4,6 +4,12 @@ This is a small machine learning project where I worked with the Titanic dataset
 
 I made this project in Google Colab. The main idea was not only to train a model, but also to understand which passenger features had the biggest impact on survival.
 
+## Report
+
+A full project report is also available in this repository:
+
+[Open Report](Titanic_Report.pdf)
+
 ## What I did
 
 In this project I went through the full basic machine learning workflow:
@@ -220,6 +226,8 @@ pip install pandas matplotlib seaborn scikit-learn dtreeviz graphviz cairosvg
 - Graphviz
 - CairoSVG
 
+
 ## Author
 
 Vladyslav Senkiv
+
