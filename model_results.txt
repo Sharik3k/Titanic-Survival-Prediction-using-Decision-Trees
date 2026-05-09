@@ -1,0 +1,26 @@
+Titanic Survival Prediction using Decision Tree
+==================================================
+
+Dataset shape: (891, 12)
+Training set size: 712
+Testing set size: 179
+
+Model Evaluation Metrics:
+Accuracy:  79.89%
+Precision: 83.93%
+Recall:    63.51%
+F1-score:  72.31%
+
+Confusion Matrix:
+[[96  9]
+ [27 47]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        Died       0.78      0.91      0.84       105
+    Survived       0.84      0.64      0.72        74
+
+    accuracy                           0.80       179
+   macro avg       0.81      0.77      0.78       179
+weighted avg       0.80      0.80      0.79       179
